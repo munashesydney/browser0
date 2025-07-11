@@ -12,7 +12,7 @@ const Header: React.FC<HeaderProps> = ({ showChat }) => {
       <div className="max-w-[2000px] mx-auto flex justify-between items-center">
         <Link 
           to="/" 
-          className={`font-semibold text-xl ${showChat ? 'pl-16' : 'pl-6'}`}
+          className={`font-semibold text-xl pl-16 pt-1`}
         >
           <span className="text-white">Browser</span>
           <span className="text-blue-500">0</span>

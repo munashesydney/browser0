@@ -1,0 +1,14 @@
+node_modules
+npm-debug.log
+.git
+.gitignore
+README.md
+.env
+.env.local
+.env.production
+.env.development
+Dockerfile
+docker-compose.yml
+.dockerignore
+postgres_data
+build/client/assets/*.map 
