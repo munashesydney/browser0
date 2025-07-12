@@ -2,7 +2,7 @@
 
 Browser0 is an advanced AI-powered browser automation platform that combines the power of large language models with real browser control through the Model Context Protocol (MCP). Built with Remix, TypeScript, and integrated with Claude AI and Microsoft Playwright.
 
-![Browser0 Screenshot](https://via.placeholder.com/800x400?text=Browser0+AI+Browser+Automation)
+![Browser0 Screenshot](./browser0-screenshot.png)
 
 ## ✨ Features
 
